@@ -1,3 +1,0 @@
-# CCC
-
-Content of CCC

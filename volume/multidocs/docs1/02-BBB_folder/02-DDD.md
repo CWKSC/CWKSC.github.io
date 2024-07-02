@@ -1,3 +1,0 @@
-# DDD
-
-Content of DDD

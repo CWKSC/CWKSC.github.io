@@ -7,8 +7,7 @@ export const navbar = {
         src: 'img/logo.svg',
     },
     items: [
-        { label: 'Blog 1', to: '/blog1/', position: 'left' },
-        { label: 'Docs 1', to: "/docs1/", position: 'left' },
-        { label: 'Docs 2', to: "/docs2/", position: 'left' },
+        { label: 'Blog', to: '/blog/', position: 'left' },
+        { label: 'Note', to: "/note/", position: 'left' },
     ],
 };

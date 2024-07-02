@@ -1,3 +1,0 @@
-# EEE
-
-Content of EEE

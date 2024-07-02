@@ -1,3 +1,0 @@
-# AAA
-
-Content of AAA

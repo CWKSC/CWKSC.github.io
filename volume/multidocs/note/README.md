@@ -2,6 +2,6 @@
 sidebar_position: 0
 ---
 
-# Docs 2
+# Note
 
-Content of Docs 2
+
