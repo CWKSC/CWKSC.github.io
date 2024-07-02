@@ -45,8 +45,8 @@ Blog posts 比較適合說一些階段性的生活近況，跟時間日子無關
 
 所以接下來期望
 
-用 blog posts 的的形式寫生活近況，像是讀完一本書 / 電影寫讀後感 / 評價，念念碎，去了個旅行，對某些概念的理解，人生觀，價值觀
+用 blog posts 的形式寫生活近況，像是讀完一本書 / 電影寫讀後感 / 評價，念念碎，去了個旅行，對某些概念的理解，人生觀，價值觀
 
-技術性的文章或者筆記就會放在有側邊欄分類的那種 documents site，像是學了什麼 library，framework，數學理論
+技術性的文章或者筆記放在有側邊欄分類的那種 documents site，像是學了什麼 programming language, algorithm, library, framework，數學理論
 
 各位多多指教
