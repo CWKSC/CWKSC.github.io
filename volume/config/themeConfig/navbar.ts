@@ -7,7 +7,7 @@ export const navbar = {
         src: 'img/logo.svg',
     },
     items: [
-        { label: 'Blog', to: '/blog/', position: 'left' },
-        { label: 'Note', to: "/note/", position: 'left' },
+        { label: 'Blog 博客', to: '/blog/', position: 'left' },
+        { label: 'Note 筆記', to: "/note/", position: 'left' },
     ],
 };
